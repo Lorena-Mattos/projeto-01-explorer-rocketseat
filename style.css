@@ -1,6 +1,6 @@
-body{
+body {
   font-family: 'Open Sans', sans-serif;
-  
+
   text-align: center;
   margin: 0;
 }
@@ -28,16 +28,17 @@ h1 span {
 }
 
 span, a {
-  color: #ff9900;
+  color: #FF9900;
 }
 
 p, #footer {
-  color: #7D7987; 
+  color: #7D7987;
+
   font-size: 14px;
   line-height: 28px;
 }
 
-#footer a + a {
+a + a{
   margin-left: 28px;
 }
 
@@ -52,6 +53,6 @@ p, #footer {
 
 #balls {
   position: fixed;
-  bottom: 0;
-  right: 0;
+  bottom: 0px;
+  right: 0px;
 }
