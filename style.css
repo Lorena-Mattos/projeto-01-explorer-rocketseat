@@ -38,7 +38,7 @@ p, #footer {
   line-height: 28px;
 }
 
-a + a{
+#footer a + a{
   margin-left: 28px;
 }
 
